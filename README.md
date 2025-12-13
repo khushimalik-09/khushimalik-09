@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc0cb&height=160"/>
+  <img src="https://img.freepik.com/free-vector/background-luxury-minimalist-simple-gradient-style-design-new_483537-1856.jpg?semt=ais_hybrid&w=740&q=80&height=160"/>
 </p>
 
 <h2 align="center">Khushi Malik</h2>
