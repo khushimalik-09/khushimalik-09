@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/background-luxury-minimalist-simple-gradient-style-design-new_483537-1856.jpg?semt=ais_hybrid&w=740&q=80&height=160"/>
+  <img src="https://github.com/khushimalik-09/khushimalik-09/blob/8edeb3da485b8b05ca419e727a80a64d51c525da/banner.png"/>
 </p>
 
 <h2 align="center">Khushi Malik</h2>
